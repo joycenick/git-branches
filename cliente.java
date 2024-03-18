@@ -1,5 +1,5 @@
 public class cliente {
-    private String nome;
+    public int lucro;
     private String cpf;
     private int agencia;
     private double saldo;
